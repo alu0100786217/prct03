@@ -1,0 +1,2281 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2013.1.15)  1 MAR 2013 09:55
+entering extended mode
+ %&-line parsing enabled.
+**latex-src.dvi
+(./latex-src.dvi
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, loaded.
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 ÷
+     ^^B^^Aƒ’À^^\;^^@^^@^^@^^@^^Cè^^[ TeX output 2013.03.01:0952‹^^@^^@^^@^^...
+
+? q
+OK, entering \batchmode...
+Missing character: There is no ÷ in font nullfont!
+! Text line contains an invalid character.
+l.1 ÷^^B
+        ^^Aƒ’À^^\;^^@^^@^^@^^@^^Cè^^[ TeX output 2013.03.01:0952‹^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ÷^^B^^A
+           ƒ’À^^\;^^@^^@^^@^^@^^Cè^^[ TeX output 2013.03.01:0952‹^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ƒ in font nullfont!
+Missing character: There is no ’ in font nullfont!
+Missing character: There is no À in font nullfont!
+! Text line contains an invalid character.
+l.1 ÷^^B^^Aƒ’À^^\
+                 ;^^@^^@^^@^^@^^Cè^^[ TeX output 2013.03.01:0952‹^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ; in font nullfont!
+! Text line contains an invalid character.
+l.1 ÷^^B^^Aƒ’À^^\;^^@
+                     ^^@^^@^^@^^Cè^^[ TeX output 2013.03.01:0952‹^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ÷^^B^^Aƒ’À^^\;^^@^^@
+                        ^^@^^@^^Cè^^[ TeX output 2013.03.01:0952‹^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ÷^^B^^Aƒ’À^^\;^^@^^@^^@
+                           ^^@^^Cè^^[ TeX output 2013.03.01:0952‹^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ÷^^B^^Aƒ’À^^\;^^@^^@^^@^^@
+                              ^^Cè^^[ TeX output 2013.03.01:0952‹^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ÷^^B^^Aƒ’À^^\;^^@^^@^^@^^@^^C
+                                 è^^[ TeX output 2013.03.01:0952‹^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no è in font nullfont!
+! Text line contains an invalid character.
+l.1 ÷^^B^^Aƒ’À^^\;^^@^^@^^@^^@^^Cè^^[
+                                      TeX output 2013.03.01:0952‹^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no ‹ in font nullfont!
+! Text line contains an invalid character.
+l.1 ...^@^^@^^Cè^^[ TeX output 2013.03.01:0952‹^^@
+                                                  ^^@^^@^^A^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...^@^^Cè^^[ TeX output 2013.03.01:0952‹^^@^^@
+                                                  ^^@^^A^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...^Cè^^[ TeX output 2013.03.01:0952‹^^@^^@^^@
+                                                  ^^A^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...^^[ TeX output 2013.03.01:0952‹^^@^^@^^@^^A
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ... TeX output 2013.03.01:0952‹^^@^^@^^@^^A^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...X output 2013.03.01:0952‹^^@^^@^^@^^A^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...utput 2013.03.01:0952‹^^@^^@^^@^^A^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...ut 2013.03.01:0952‹^^@^^@^^@^^A^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...2013.03.01:0952‹^^@^^@^^@^^A^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...3.03.01:0952‹^^@^^@^^@^^A^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...3.01:0952‹^^@^^@^^@^^A^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...1:0952‹^^@^^@^^@^^A^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...952‹^^@^^@^^@^^A^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...‹^^@^^@^^@^^A^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^A^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^A^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^A^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...A^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@^^@ÿÿ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@^^@ÿÿÿÿ ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@^^@ÿÿÿÿ ^^B...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@^^@ÿÿÿÿ ^^BÃ^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@^^@ÿÿÿÿ ^^BÃ^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@^^@ÿÿÿÿ ^^BÃ^^@^^@ ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@^^@ÿÿÿÿ ^^BÃ^^@^^@ ıd^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ^^@ÿÿÿÿ ^^BÃ^^@^^@ ıd^^@^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@
+                                                  ÿÿÿÿ ^^BÃ^^@^^@ ıd^^@^^@ ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ÿ in font nullfont!
+Missing character: There is no ÿ in font nullfont!
+Missing character: There is no ÿ in font nullfont!
+Missing character: There is no ÿ in font nullfont!
+Missing character: There is no   in font nullfont!
+! Text line contains an invalid character.
+l.1 ...^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@ÿÿÿÿ ^^B
+                                                  Ã^^@^^@ ıd^^@^^@ ^^Bƒ^^@^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no Ã in font nullfont!
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@^^@ÿÿÿÿ ^^BÃ^^@
+                                                  ^^@ ıd^^@^^@ ^^Bƒ^^@^^@ ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@^^@^^@^^@^^@^^@^^@ÿÿÿÿ ^^BÃ^^@^^@
+                                                   ıd^^@^^@ ^^Bƒ^^@^^@ ı´^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no  in font nullfont!
+Missing character: There is no   in font nullfont!
+Missing character: There is no ı in font nullfont!
+Missing character: There is no d in font nullfont!
+! Text line contains an invalid character.
+l.1 ...^^@^^@^^@^^@^^@^^@^^@ÿÿÿÿ ^^BÃ^^@^^@ ıd^^@
+                                                  ^^@ ^^Bƒ^^@^^@ ı´^^FÔ‘5û...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...^^@^^@^^@^^@^^@^^@ÿÿÿÿ ^^BÃ^^@^^@ ıd^^@^^@
+                                                   ^^Bƒ^^@^^@ ı´^^FÔ‘5ûãó^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no   in font nullfont!
+! Text line contains an invalid character.
+l.1 ...^@^^@^^@^^@^^@ÿÿÿÿ ^^BÃ^^@^^@ ıd^^@^^@ ^^B
+                                                  ƒ^^@^^@ ı´^^FÔ‘5ûãó^^GKñ...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ƒ in font nullfont!
+! Text line contains an invalid character.
+l.1 ...@^^@^^@^^@ÿÿÿÿ ^^BÃ^^@^^@ ıd^^@^^@ ^^Bƒ^^@
+                                                  ^^@ ı´^^FÔ‘5ûãó^^GKñ`y^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.1 ...@^^@^^@ÿÿÿÿ ^^BÃ^^@^^@ ıd^^@^^@ ^^Bƒ^^@^^@
+                                                   ı´^^FÔ‘5ûãó^^GKñ`y^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no  in font nullfont!
+Missing character: There is no   in font nullfont!
+Missing character: There is no ı in font nullfont!
+Missing character: There is no ´ in font nullfont!
+! Text line contains an invalid character.
+l.1 ...ÿÿÿÿ ^^BÃ^^@^^@ ıd^^@^^@ ^^Bƒ^^@^^@ ı´^^F
+                                                  Ô‘5ûãó^^GKñ`y^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no Ô in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no ó in font nullfont!
+! Text line contains an invalid character.
+l.1 ...^@^^@ ıd^^@^^@ ^^Bƒ^^@^^@ ı´^^FÔ‘5ûãó^^G
+                                                  Kñ`y^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no K in font nullfont!
+Missing character: There is no ñ in font nullfont!
+Missing character: There is no ` in font nullfont!
+Missing character: There is no y in font nullfont!
+! Text line contains an invalid character.
+l.1 ...ıd^^@^^@ ^^Bƒ^^@^^@ ı´^^FÔ‘5ûãó^^GKñ`y^^@
+                                                  
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.2 ^^@
+       ^^@^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.2 ^^@^^@
+          ^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.2 ^^@^^@^^@
+             
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--2
+[]
+ []
+
+! Text line contains an invalid character.
+l.3 ^^@
+       ^^@^^@^^Ecmr10²Si–^^B]¹simplemenš¸ãte“se“desea“escribir“texto‘^^B]ºno...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ^^@^^@
+          ^^@^^Ecmr10²Si–^^B]¹simplemenš¸ãte“se“desea“escribir“texto‘^^B]ºno...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ^^@^^@^^@
+             ^^Ecmr10²Si–^^B]¹simplemenš¸ãte“se“desea“escribir“texto‘^^B]ºno...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ^^@^^@^^@^^E
+                cmr10²Si–^^B]¹simplemenš¸ãte“se“desea“escribir“texto‘^^B]ºno...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ^^@^^@^^@^^Ec
+                 mr10²Si–^^B]¹simplemenš¸ãte“se“desea“escribir“texto‘^^B]ºno...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ² in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no – in font nullfont!
+! Text line contains an invalid character.
+l.3 ^^@^^@^^@^^Ecmr10²Si–^^B
+                            ]¹simplemenš¸ãte“se“desea“escribir“texto‘^^B]ºno...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no ¹ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no š in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+! Text line contains an invalid character.
+l.3 ...¹simplemenš¸ãte“se“desea“escribir“texto‘^^B
+                                                  ]ºnormal“en“LaT‘ÿ*ªeX,“sin...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no º in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+Missing character: There is no ÿ in font nullfont!
+Missing character: There is no * in font nullfont!
+Missing character: There is no ª in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no X in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ¤ in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--3
+[] 
+ []
+
+! Text line contains an invalid character.
+l.3 ...LaT‘ÿ*ªeX,“sin“complicadas“frm˜ulas¤^^L^^@
+                                                  ^^@‘5ûãmatem–^^B‡>aticas“...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...‘ÿ*ªeX,“sin“complicadas“frm˜ulas¤^^L^^@^^@
+                                                  ‘5ûãmatem–^^B‡>aticas“o›^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 ...ÿ*ªeX,“sin“complicadas“frm˜ulas¤^^L^^@^^@
+                                                  ‘5ûãmatem–^^B‡>aticas“o›^^...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no  in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no – in font nullfont!
+! Text line contains an invalid character.
+l.3 ...mplicadas“frm˜ulas¤^^L^^@^^@‘5ûãmatem–^^B
+                                                  ‡>aticas“o›^^B‡=efectos“es...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ‡ in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no › in font nullfont!
+! Text line contains an invalid character.
+l.3 ...ulas¤^^L^^@^^@‘5ûãmatem–^^B‡>aticas“o›^^B
+                                                  ‡=efectos“espG^^]eciales“...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ‡ in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no G in font nullfont!
+! Text line contains an invalid character.
+l.3 ...ûãmatem–^^B‡>aticas“o›^^B‡=efectos“espG^^]
+                                                  eciales“como“cam¸ãbios“de...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no • in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+! Text line contains an invalid character.
+l.3 ...^]eciales“como“cam¸ãbios“de˜fuen•¸ãte,‘^^B
+                                                  °ven“tonces‘^^B‡>simplemen...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ° in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+! Text line contains an invalid character.
+l.3 ...cam¸ãbios“de˜fuen•¸ãte,‘^^B°ven“tonces‘^^B
+                                                  ‡>simplemen“te¡‘5ûãtiene...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ‡ in font nullfont!
+Missing character: There is no > in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ¡ in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no – in font nullfont!
+! Text line contains an invalid character.
+l.3 ...en“tonces‘^^B‡>simplemen“te¡‘5ûãtiene–^^C
+                                                  9—que›^^C9–escribir“en“esp...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no — in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no › in font nullfont!
+! Text line contains an invalid character.
+l.3 ...‘^^B‡>simplemen“te¡‘5ûãtiene–^^C9—que›^^C
+                                                  9–escribir“en“espa˜nol“nor...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no š in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+! Text line contains an invalid character.
+l.3 ...C9–escribir“en“espa˜nol“normalmenš¸ãte.‘^^D
+                                                  h‡Si“desea“cam˜biar›^^C9–d...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no ‡ in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no › in font nullfont!
+! Text line contains an invalid character.
+l.3 ...“normalmenš¸ãte.‘^^Dh‡Si“desea“cam˜biar›^^C
+                                                  9–de“p“arrafo˜ha“de¡‘5ûã...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no 9 in font nullfont!
+Missing character: There is no – in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ¡ in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no – in font nullfont!
+! Text line contains an invalid character.
+l.3 ...biar›^^C9–de“p“arrafo˜ha“de¡‘5ûãdejar–^^C
+                                                  UUuna“l“nea“en“blanco“o“bi...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no U in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no Ÿ in font nullfont!
+! Text line contains an invalid character.
+l.3 ...a“en“blanco“o“bien“utilizar“el“comandoŸ^^R
+                                                  ÿş‘5ûã.‘^^DboNo–^^C'Mes“n...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ÿ in font nullfont!
+Missing character: There is no ş in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+! Text line contains an invalid character.
+l.3 ...o“bien“utilizar“el“comandoŸ^^Rÿş‘5ûã.‘^^D
+                                                  boNo–^^C'Mes“necesario“pre...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no N in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no – in font nullfont!
+! Text line contains an invalid character.
+l.3 ...tilizar“el“comandoŸ^^Rÿş‘5ûã.‘^^DboNo–^^C
+                                                  'Mes“necesario“preošG^^]cu...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ' in font nullfont!
+Missing character: There is no M in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no š in font nullfont!
+Missing character: There is no G in font nullfont!
+! Text line contains an invalid character.
+l.3 ...ş‘5ûã.‘^^DboNo–^^C'Mes“necesario“preošG^^]
+                                                  cuparse“de“la“sangr“a‘^^C'...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+! Text line contains an invalid character.
+l.3 ...ecesario“preošG^^]cuparse“de“la“sangr“a‘^^C
+                                                  'Lde“los“p“arrafos:‘^^DZÃt...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ' in font nullfont!
+Missing character: There is no L in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+! Text line contains an invalid character.
+l.3 ...se“de“la“sangr“a‘^^C'Lde“los“p“arrafos:‘^^D
+                                                  ZÃto˜dos“los“p“arrafos¡‘...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no Z in font nullfont!
+Missing character: There is no Ã in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ¡ in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no – in font nullfont!
+! Text line contains an invalid character.
+l.3 ...fos:‘^^DZÃto˜dos“los“p“arrafos¡‘5ûãse–^^C
+                                                  Şwsangrar“an“autom›^^CŞvat...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no Ş in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no › in font nullfont!
+! Text line contains an invalid character.
+l.3 ...“arrafos¡‘5ûãse–^^CŞwsangrar“an“autom›^^C
+                                                  Şvaticamen¸ãte“con“la“exc...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no Ş in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no G in font nullfont!
+! Text line contains an invalid character.
+l.3 ...“autom›^^CŞvaticamen¸ãte“con“la“excepG^^]
+                                                  ci“on“del“primer˜p“arrafo“...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ¡ in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no – in font nullfont!
+! Text line contains an invalid character.
+l.3 ...“del“primer˜p“arrafo“de“una¡‘5ûãsecci–^^B
+                                                  ª"on.‘^^D8·Se“ha“de“distin...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ª in font nullfont!
+Missing character: There is no " in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+! Text line contains an invalid character.
+l.3 ...er˜p“arrafo“de“una¡‘5ûãsecci–^^Bª"on.‘^^D
+                                                  8·Se“ha“de“distinguir“en¸...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no · in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+! Text line contains an invalid character.
+l.3 ...Se“ha“de“distinguir“en¸ãtre“la“comilla‘^^B
+                                                  ª#simple“izquierda‘^^B©÷y“...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ª in font nullfont!
+! You can't use `macro parameter character #' in horizontal mode.
+l.3 ...“ha“de“distinguir“en¸ãtre“la“comilla‘^^Bª#
+                                                  simple“izquierda‘^^B©÷y“la...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+! Text line contains an invalid character.
+l.3 ...¸ãtre“la“comilla‘^^Bª#simple“izquierda‘^^B
+                                                  ©÷y“la“comilla“simple¡‘5...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no © in font nullfont!
+Missing character: There is no ÷ in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ¡ in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+! Text line contains an invalid character.
+l.3 ...B©÷y“la“comilla“simple¡‘5ûãderec¸ãha‘^^C
+                                                  ^^@rcuando–^^C^^@ˆse›^^C^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...y“la“comilla“simple¡‘5ûãderec¸ãha‘^^C^^@
+                                                  rcuando–^^C^^@ˆse›^^C^^@‡e...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no – in font nullfont!
+! Text line contains an invalid character.
+l.3 ...a“simple¡‘5ûãderec¸ãha‘^^C^^@rcuando–^^C
+                                                  ^^@ˆse›^^C^^@‡escribG^^]e...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...imple¡‘5ûãderec¸ãha‘^^C^^@rcuando–^^C^^@
+                                                  ˆse›^^C^^@‡escribG^^]e“en...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ˆ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no › in font nullfont!
+! Text line contains an invalid character.
+l.3 ...‘5ûãderec¸ãha‘^^C^^@rcuando–^^C^^@ˆse›^^C
+                                                  ^^@‡escribG^^]e“en˜el“ord...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...ûãderec¸ãha‘^^C^^@rcuando–^^C^^@ˆse›^^C^^@
+                                                  ‡escribG^^]e“en˜el“ordena...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ‡ in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no G in font nullfont!
+! Text line contains an invalid character.
+l.3 ...‘^^C^^@rcuando–^^C^^@ˆse›^^C^^@‡escribG^^]
+                                                  e“en˜el“ordenador.‘^^DU‚En...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+! Text line contains an invalid character.
+l.3 ...se›^^C^^@‡escribG^^]e“en˜el“ordenador.‘^^D
+                                                  U‚En“el˜caso“de˜que“se˜qui...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no U in font nullfont!
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ¡ in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no – in font nullfont!
+! Text line contains an invalid character.
+l.3 ...˜que“se˜quieran“utilizar¡‘5ûãcomillas–^^B
+                                                  ¨ûdobles›^^B¨üse“han“de˜es...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ¨ in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no › in font nullfont!
+! Text line contains an invalid character.
+l.3 ...ran“utilizar¡‘5ûãcomillas–^^B¨ûdobles›^^B
+                                                  ¨üse“han“de˜escribir“dos“c...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ¨ in font nullfont!
+Missing character: There is no ü in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+! Text line contains an invalid character.
+l.3 ...˜escribir“dos“caracteres˜comilla“simple‘^^B
+                                                  ¨Ğseguidos,‘^^BËtesto“es,...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ¨ in font nullfont!
+Missing character: There is no Ğ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+! Text line contains an invalid character.
+l.3 ...aracteres˜comilla“simple‘^^B¨Ğseguidos,‘^^B
+                                                  Ëtesto“es,¡‘5ûãcomillas–...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no Ë in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ¡ in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no – in font nullfont!
+! Text line contains an invalid character.
+l.3 ...Ğseguidos,‘^^BËtesto“es,¡‘5ûãcomillas–^^C
+                                                  b^^_dobles.›^^Cb T‘ÿ*ªam¸...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no b in font nullfont!
+! Text line contains an invalid character.
+l.3 ...uidos,‘^^BËtesto“es,¡‘5ûãcomillas–^^Cb^^_
+                                                  dobles.›^^Cb T‘ÿ*ªam¸ãbi“...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no › in font nullfont!
+! Text line contains an invalid character.
+l.3 ...testo“es,¡‘5ûãcomillas–^^Cb^^_dobles.›^^C
+                                                  b T‘ÿ*ªam¸ãbi“en˜se“ha˜de...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no b in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+Missing character: There is no ÿ in font nullfont!
+Missing character: There is no * in font nullfont!
+Missing character: There is no ª in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no : in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+! Text line contains an invalid character.
+l.3 ...se“ha˜de“tener˜cuidado“con˜los“guiones:‘^^D
+                                                  ‹\se˜utiliza“un¡‘5ûãunic...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ‹ in font nullfont!
+! Undefined control sequence.
+l.3 ...a˜de“tener˜cuidado“con˜los“guiones:‘^^D‹\se
+                                                  ˜utiliza“un¡‘5ûãunico–^^...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ¡ in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no – in font nullfont!
+! Text line contains an invalid character.
+l.3 ...guiones:‘^^D‹\se˜utiliza“un¡‘5ûãunico–^^B
+                                                  âøgui“on›^^Bâ÷para“la“sepa...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no â in font nullfont!
+Missing character: There is no ø in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no › in font nullfont!
+! Text line contains an invalid character.
+l.3 ...‹\se˜utiliza“un¡‘5ûãunico–^^Bâøgui“on›^^B
+                                                  â÷para“la“separaci“on“de“s...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no â in font nullfont!
+Missing character: There is no ÷ in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+! Text line contains an invalid character.
+l.3 ...on›^^Bâ÷para“la“separaci“on“de“s˜labas,‘^^B
+                                                  ùØmien¸ãtras“que“se˜utili...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ù in font nullfont!
+Missing character: There is no Ø in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no z in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ¡ in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no – in font nullfont!
+! Text line contains an invalid character.
+l.3 ...se˜utilizan“tres“guiones¡‘5ûãseguidos–^^C
+                                                  6‚para“proG^^]ducir›^^C6...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no ‚ in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no G in font nullfont!
+! Text line contains an invalid character.
+l.3 ...s“guiones¡‘5ûãseguidos–^^C6‚para“proG^^]
+                                                  ducir›^^C6un“gui“on“de“lo...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no › in font nullfont!
+! Text line contains an invalid character.
+l.3 ...¡‘5ûãseguidos–^^C6‚para“proG^^]ducir›^^C
+                                                  6un“gui“on“de“los˜que“se“...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no ˜ in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ¸ in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ¡ in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no ‘ in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no | in font nullfont!
+Missing character: There is no – in font nullfont!
+! Text line contains an invalid character.
+l.3 ...an“como“signo˜de“pun¸ãtuaci“on¡‘5ûã|–^^C
+                                                  UUcomo“en“esta“oraci“on....
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no U in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no “ in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no Ÿ in font nullfont!
+! Text line contains an invalid character.
+l.3 ...n¡‘5ûã|–^^CUUcomo“en“esta“oraci“on.Ÿ^^Y
+                                                  ^^@^^@’^^@ßûã1Œø^^@^^@^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...‘5ûã|–^^CUUcomo“en“esta“oraci“on.Ÿ^^Y^^@
+                                                  ^^@’^^@ßûã1Œø^^@^^@^^@*...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...ûã|–^^CUUcomo“en“esta“oraci“on.Ÿ^^Y^^@^^@
+                                                  ’^^@ßûã1Œø^^@^^@^^@*^^A...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no  in font nullfont!
+Missing character: There is no ’ in font nullfont!
+! Text line contains an invalid character.
+l.3 ...^CUUcomo“en“esta“oraci“on.Ÿ^^Y^^@^^@’^^@
+                                                  ßûã1Œø^^@^^@^^@*^^Aƒ’À^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ß in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no ã in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no  in font nullfont!
+Missing character: There is no Œ in font nullfont!
+Missing character: There is no ø in font nullfont!
+! Text line contains an invalid character.
+l.3 ...“esta“oraci“on.Ÿ^^Y^^@^^@’^^@ßûã1Œø^^@
+                                                  ^^@^^@*^^Aƒ’À^^\;^^@^^@^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...ta“oraci“on.Ÿ^^Y^^@^^@’^^@ßûã1Œø^^@^^@
+                                                  ^^@*^^Aƒ’À^^\;^^@^^@^^@^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...oraci“on.Ÿ^^Y^^@^^@’^^@ßûã1Œø^^@^^@^^@
+                                                  *^^Aƒ’À^^\;^^@^^@^^@^^@^^C...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no * in font nullfont!
+! Text line contains an invalid character.
+l.3 ...i“on.Ÿ^^Y^^@^^@’^^@ßûã1Œø^^@^^@^^@*^^A
+                                                  ƒ’À^^\;^^@^^@^^@^^@^^Cè^^B...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ƒ in font nullfont!
+Missing character: There is no ’ in font nullfont!
+Missing character: There is no À in font nullfont!
+! Text line contains an invalid character.
+l.3 ...Ÿ^^Y^^@^^@’^^@ßûã1Œø^^@^^@^^@*^^Aƒ’À^^\
+                                                  ;^^@^^@^^@^^@^^Cè^^BÃ^^@^^...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ; in font nullfont!
+! Text line contains an invalid character.
+l.3 ...Y^^@^^@’^^@ßûã1Œø^^@^^@^^@*^^Aƒ’À^^\;^^@
+                                                  ^^@^^@^^@^^Cè^^BÃ^^@^^@^^A...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...@^^@’^^@ßûã1Œø^^@^^@^^@*^^Aƒ’À^^\;^^@^^@
+                                                  ^^@^^@^^Cè^^BÃ^^@^^@^^Aûã...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...@’^^@ßûã1Œø^^@^^@^^@*^^Aƒ’À^^\;^^@^^@^^@
+                                                  ^^@^^Cè^^BÃ^^@^^@^^Aûã^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^^@ßûã1Œø^^@^^@^^@*^^Aƒ’À^^\;^^@^^@^^@^^@
+                                                  ^^Cè^^BÃ^^@^^@^^Aûã^^@^^C...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...ßûã1Œø^^@^^@^^@*^^Aƒ’À^^\;^^@^^@^^@^^@^^C
+                                                  è^^BÃ^^@^^@^^Aûã^^@^^C^^@...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no è in font nullfont!
+! Text line contains an invalid character.
+l.3 ...Œø^^@^^@^^@*^^Aƒ’À^^\;^^@^^@^^@^^@^^Cè^^B
+                                                  Ã^^@^^@^^Aûã^^@^^C^^@^^Aó...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no Ã in font nullfont!
+! Text line contains an invalid character.
+l.3 ...^^@^^@^^@*^^Aƒ’À^^\;^^@^^@^^@^^@^^Cè^^BÃ^^@
+                                                  ^^@^^Aûã^^@^^C^^@^^Aó^^GK...
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^^@^^@*^^Aƒ’À^^\;^^@^^@^^@^^@^^Cè^^BÃ^^@^^@
+                                                  ^^Aûã^^@^^C^^@^^Aó^^GKñ`y^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^^@*^^Aƒ’À^^\;^^@^^@^^@^^@^^Cè^^BÃ^^@^^@^^A
+                                                  ûã^^@^^C^^@^^Aó^^GKñ`y^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no  in font nullfont!
+Missing character: There is no û in font nullfont!
+Missing character: There is no ã in font nullfont!
+! Text line contains an invalid character.
+l.3 ...Aƒ’À^^\;^^@^^@^^@^^@^^Cè^^BÃ^^@^^@^^Aûã^^@
+                                                  ^^C^^@^^Aó^^GKñ`y^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...À^^\;^^@^^@^^@^^@^^Cè^^BÃ^^@^^@^^Aûã^^@^^C
+                                                  ^^@^^Aó^^GKñ`y^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...\;^^@^^@^^@^^@^^Cè^^BÃ^^@^^@^^Aûã^^@^^C^^@
+                                                  ^^Aó^^GKñ`y^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.3 ...^@^^@^^@^^@^^Cè^^BÃ^^@^^@^^Aûã^^@^^C^^@^^A
+                                                  ó^^GKñ`y^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ó in font nullfont!
+! Text line contains an invalid character.
+l.3 ...@^^@^^@^^Cè^^BÃ^^@^^@^^Aûã^^@^^C^^@^^Aó^^G
+                                                  Kñ`y^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no K in font nullfont!
+Missing character: There is no ñ in font nullfont!
+Missing character: There is no ` in font nullfont!
+Missing character: There is no y in font nullfont!
+! Text line contains an invalid character.
+l.3 ...^^Cè^^BÃ^^@^^@^^Aûã^^@^^C^^@^^Aó^^GKñ`y^^@
+                                                  
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.4 ^^@
+       ^^@^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.4 ^^@^^@
+          ^^@
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.4 ^^@^^@^^@
+             
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--4
+[]
+ []
+
+! Text line contains an invalid character.
+l.5 ^^@
+       ^^@^^@^^Ecmr10ù^^@^^@^^EU^^Bßßßßßßß
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.5 ^^@^^@
+          ^^@^^Ecmr10ù^^@^^@^^EU^^Bßßßßßßß
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.5 ^^@^^@^^@
+             ^^Ecmr10ù^^@^^@^^EU^^Bßßßßßßß
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.5 ^^@^^@^^@^^E
+                cmr10ù^^@^^@^^EU^^Bßßßßßßß
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 ^^@^^@^^@^^Ec
+                 mr10ù^^@^^@^^EU^^Bßßßßßßß
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no ù in font nullfont!
+! Text line contains an invalid character.
+l.5 ^^@^^@^^@^^Ecmr10ù^^@
+                         ^^@^^EU^^Bßßßßßßß
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.5 ^^@^^@^^@^^Ecmr10ù^^@^^@
+                            ^^EU^^Bßßßßßßß
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+! Text line contains an invalid character.
+l.5 ^^@^^@^^@^^Ecmr10ù^^@^^@^^E
+                               U^^Bßßßßßßß
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no U in font nullfont!
+! Text line contains an invalid character.
+l.5 ^^@^^@^^@^^Ecmr10ù^^@^^@^^EU^^B
+                                   ßßßßßßß
+A funny symbol that I can't read has just been input.
+Continue, and I'll forget that it ever happened.
+
+Missing character: There is no ß in font nullfont!
+Missing character: There is no ß in font nullfont!
+Missing character: There is no ß in font nullfont!
+Missing character: There is no ß in font nullfont!
+Missing character: There is no ß in font nullfont!
+Missing character: There is no ß in font nullfont!
+Missing character: There is no ß in font nullfont!
+)
+! Emergency stop.
+<*> latex-src.dvi
+                 
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 5 strings out of 495062
+ 141 string characters out of 1182644
+ 45108 words of memory out of 3000000
+ 3282 multiletter control sequences out of 15000+50000
+ 3640 words of font info for 14 fonts, out of 3000000 for 9000
+ 28 hyphenation exceptions out of 8191
+ 5i,0n,4p,1291b,14s stack positions out of 5000i,500n,10000p,200000b,50000s
+No pages of output.
